@@ -33,8 +33,11 @@ Welcome to my Github Profile
   </p>
 
   ### :fire: My Stats :
-  <!-- Leetcode Stats removed based on your request -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=UnresolvedCold&theme=dark)](https://git.io/streak-stats)
+
+  [![Hackerrank Stats](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/singhkuwargaurav)
 </div>
+
 
 
 
