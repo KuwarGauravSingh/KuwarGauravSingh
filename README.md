@@ -56,7 +56,6 @@ Welcome to my Github Profile
   <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,figma,visualstudio,github" />
 <img src="https://cdn.simpleicons.org/salesforce/blue" alt="Salesforce" width="50" height="50" />
-<img src="https://cdn.simpleicons.org/salesforceapex" alt="Apex" width="50" height="50" />
 
   </p>
 
