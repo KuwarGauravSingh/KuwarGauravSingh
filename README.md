@@ -54,8 +54,7 @@ Welcome to my Github Profile
 
   ### 🍸 My Skills :
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,visualstudio,github,salesforce" />
-    <img src="https://img.shields.io/badge/Apex-Developer-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex Developer"/>
+    <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,visualstudio,github,salesforce,apex" />
   </p>
 
   ### :fire: My Stats :
