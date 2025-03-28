@@ -54,7 +54,7 @@ Welcome to my Github Profile
 
   ### 🍸 My Skills :
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,visualstudio,github,salesforce" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,visualstudio,github,salesforce,javascript" />
     <img src="https://skillicons.dev/icons?i=apex" />
   </p>
 
