@@ -1,5 +1,6 @@
 ### Hi there 👋
 Welcome to my Github Profile
+
 <div align="center">
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
@@ -10,6 +11,30 @@ Welcome to my Github Profile
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kuwar Gaurav Singh"/>
     </a>
   </div>
+
+  ### 🎨 Experiences :
+  <table>
+    <tr>
+      <td><strong>Internship</strong></td>
+      <td><strong>Company</strong></td>
+      <td><strong>Year</strong></td>
+    </tr>
+    <tr>
+      <td>Intern in Salesforce</td>
+      <td>KLOUDCODEY</td>
+      <td>2025 - Present</td>
+    </tr>
+    <tr>
+      <td>Frontend Developer Intern</td>
+      <td>Bluestock Fintech</td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td>Software Intern</td>
+      <td>BLW</td>
+      <td>2024</td>
+    </tr>
+  </table>
 
   ### 🖐 About Me :
   <table>
@@ -29,17 +54,18 @@ Welcome to my Github Profile
 
   ### 🍸 My Skills :
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,mongodb,c,html,css,javascript,react,nodejs,bootstrap,visualstudio,github" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,visualstudio,github,salesforce" />
+    <img src="https://img.shields.io/badge/Apex-Developer-blue?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex Developer"/>
   </p>
 
   ### :fire: My Stats :
   
-
   [![Hackerrank Stats](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/singhkuwargaurav)
+  
+  [![Salesforce Stats](https://img.shields.io/badge/Salesforce-Profile-blue?style=for-the-badge&logo=salesforce)](https://trailblazer.me/id/singhkuwargaurav)
+
+  ### 🎮 Hobbies and Interests :
+  - Cricket
+  - Chess (Silver Medalist, CBSE Cluster Tournament)
+  - Reading Novels
 </div>
-
-
-
-
-
-
