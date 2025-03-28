@@ -55,8 +55,9 @@ Welcome to my Github Profile
   ### 🍸 My Skills :
   <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,figma,visualstudio,github" />
-<img src="https://images.app.goo.gl/G2RedCacSRXLXs1z8" alt="Salesforce" width="50" height="50" />
-<img src="https://images.app.goo.gl/7dBE5gv2fjx2a9xv8" alt="Apex" width="50" height="50" />
+<img src="https://cdn.simpleicons.org/salesforce/blue" alt="Salesforce" width="50" height="50" />
+<img src="https://cdn.simpleicons.org/salesforceapex" alt="Apex" width="50" height="50" />
+
   </p>
 
   ### :fire: My Stats :
