@@ -22,7 +22,7 @@ Welcome to my Github Profile
     <tr>
       <td>Intern in Salesforce</td>
       <td>KLOUDCODEY</td>
-      <td>2025 - Present</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>Frontend Developer Intern</td>
