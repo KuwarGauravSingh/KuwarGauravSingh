@@ -20,9 +20,14 @@ Welcome to my Github Profile
       <td><strong>Year</strong></td>
     </tr>
     <tr>
+      <td>Junior Software Engineer Intern</td>
+      <td>CODT TECHNOLOGIES</td>
+      <td>2025</td>
+    </tr>
+    <tr>
       <td>Intern in Salesforce</td>
       <td>KLOUDCODEY</td>
-      <td>2025</td>
+      <td>2025 - Present</td>
     </tr>
     <tr>
       <td>Frontend Developer Intern</td>
@@ -56,7 +61,6 @@ Welcome to my Github Profile
   <p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,flask,androidstudio,mysql,c,html,css,bootstrap,figma,visualstudio,github" />
 <img src="https://cdn.simpleicons.org/salesforce/blue" alt="Salesforce" width="50" height="50" />
-
   </p>
 
   ### :fire: My Stats :
