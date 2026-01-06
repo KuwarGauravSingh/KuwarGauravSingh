@@ -22,7 +22,7 @@ Welcome to my Github Profile
     <tr>
       <td>Junior Software Engineer Intern</td>
       <td>CODT TECHNOLOGIES</td>
-      <td>2025-Present</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>Intern in Salesforce</td>
