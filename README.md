@@ -19,6 +19,11 @@ Welcome to my Github Profile
       <td><strong>Company</strong></td>
       <td><strong>Year</strong></td>
     </tr>
+     <tr>
+      <td>Junior Data Analytics</td>
+      <td>CrazyWebDev Technologies</td>
+      <td>2026</td>
+    </tr>
     <tr>
       <td>Junior Software Engineer Intern</td>
       <td>CODT TECHNOLOGIES</td>
