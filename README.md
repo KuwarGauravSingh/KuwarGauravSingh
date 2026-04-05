@@ -22,27 +22,27 @@ Welcome to my Github Profile
      <tr>
       <td>Junior Data Analytics</td>
       <td>CrazyWebDev Technologies</td>
-      <td>2026</td>
+      <td>August 2025 – February 2026</td>
     </tr>
     <tr>
       <td>Junior Software Engineer Intern</td>
       <td>CODT TECHNOLOGIES</td>
-      <td>2025</td>
+      <td>April 2025 – July 2025</td>
     </tr>
     <tr>
       <td>Intern in Salesforce</td>
       <td>KLOUDCODEY</td>
-      <td>2025</td>
+      <td>January 2025 – April 2025</td>
     </tr>
     <tr>
       <td>Frontend Developer Intern</td>
       <td>Bluestock Fintech</td>
-      <td>2024</td>
+      <td>July 2024 – September 2024</td>
     </tr>
     <tr>
       <td>Software Intern</td>
       <td>BLW</td>
-      <td>2024</td>
+      <td>July 2024 – August 2024</td>
     </tr>
   </table>
 
